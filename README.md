@@ -1,6 +1,6 @@
-## 9th-place-solution-Data-Science-Nigeria-AI-BOOTCAMP-2019-PRE-QUALIFICATION-COMPETITION
+# 9th-place-solution-Data-Science-Nigeria-AI-BOOTCAMP-2019-PRE-QUALIFICATION-COMPETITION
 
-# CASE STUDY: YAKUB TRADING GROUP - ALGORITHMIC STAFF PROMOTION 
+## CASE STUDY: YAKUB TRADING GROUP - ALGORITHMIC STAFF PROMOTION 
 
 Abdullah’s Baba Yakub, 38, is the heir apparent to the highly revered Yakub business dynasty. The enterprise has spanned decades with vast investment interest in all the various sectors of the economy.  Abdullah has worked for 16 years in Europe and America after his first and second degrees at Harvard University where he studied Engineering and Business Management. He is a very experienced technocrat and a global business leader who rose through the rank to become a Senior Vice President at a leading US business conglomerate. His dad is now 70 and has invited him to take over the company with a mandate to take it to the next level of growth as a sustainable legacy. Abdullah is trusted by his father and his siblings to lead this mandate.
 
